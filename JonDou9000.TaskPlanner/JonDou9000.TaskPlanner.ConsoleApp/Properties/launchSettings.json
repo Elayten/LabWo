@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JonDou9000.TaskPlanner.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
