@@ -21,7 +21,7 @@ internal static class Program
         var plan = planner.CreatePlan(items);
 
         Console.WriteLine("Список завдань у правильному порядку:");
-        foreach (var item in plan)
+        foreach (var item in plan)s
         {
             Console.WriteLine($"- {item.Title} (Пріоритет {item.Priority}, дедлайн {item.DueDate:dd.MM.yyyy})");
         }

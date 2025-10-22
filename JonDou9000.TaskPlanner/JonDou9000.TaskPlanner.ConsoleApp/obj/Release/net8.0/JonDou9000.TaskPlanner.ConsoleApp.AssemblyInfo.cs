@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JonDou9000.TaskPlanner.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9157f86248cb72bf10a57e82f8a310656652cf4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6daef0af4cbea838ef9ccf7ce70c7643314ccd74")]
 [assembly: System.Reflection.AssemblyProductAttribute("JonDou9000.TaskPlanner.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JonDou9000.TaskPlanner.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
