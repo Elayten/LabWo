@@ -7,20 +7,71 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\JonDou9000.TaskPlanner.ConsoleApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\JonDou9000.TaskPlanner.ConsoleApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\JonDou9000.TaskPlanner.Domain.Logic.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\JonDou9000.TaskPlanner.Domain.Logic.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\JonDou9000.TaskPlanner.DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\JonDou9000.TaskPlanner.DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Models\\alivegeto.TaskPlanner.Domain.Models\\WorkItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Logic\\alivegeto.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +81,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 175,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj",
+              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T18:16:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JonDou9000.TaskPlanner.Domain.Logic.Tests.csproj",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\JonDou9000.TaskPlanner.Domain.Logic.Tests.csproj",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\JonDou9000.TaskPlanner.Domain.Logic.Tests.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\JonDou9000.TaskPlanner.Domain.Logic.Tests.csproj",
+              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\JonDou9000.TaskPlanner.Domain.Logic.Tests.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T18:18:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:42:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:15:00.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeToolTip": "JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:17:53.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "JonDou9000.TaskPlanner.ConsoleApp.csproj",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\JonDou9000.TaskPlanner.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\JonDou9000.TaskPlanner.ConsoleApp.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\JonDou9000.TaskPlanner.ConsoleApp.csproj",
+              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\JonDou9000.TaskPlanner.ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T18:19:32.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWorkItemsRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:41:38.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JonDou9000.TaskPlanner.DataAccess.csproj",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\JonDou9000.TaskPlanner.DataAccess.csproj",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\JonDou9000.TaskPlanner.DataAccess.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\JonDou9000.TaskPlanner.DataAccess.csproj",
+              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\JonDou9000.TaskPlanner.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T18:20:52.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileWorkItemsRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:40:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\Class1.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\Class1.cs",
+              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:15:57.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Models\\alivegeto.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeDocumentMoniker": "..\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Models\\alivegeto.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Models\\alivegeto.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeToolTip": "..\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Models\\alivegeto.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:26:12.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:18:10.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileWorkItemsRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeDocumentMoniker": "..\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeToolTip": "..\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:40:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JonDou9000.TaskPlanner.Domain.Models.csproj",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models.csproj",
+              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models.csproj",
+              "RelativeToolTip": "JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T17:41:27.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\Class1.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\Class1.cs",
+              "RelativeToolTip": "..\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:40:26.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Logic\\alivegeto.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "..\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Logic\\alivegeto.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Logic\\alivegeto.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "..\\pz_Matlak\\alivegeto.TaskPlanner.Domain.Logic\\alivegeto.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:21:29.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "..\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner\\Program.cs",
+              "RelativeToolTip": "..\\pz_Matlak\\alivegeto.TaskPlanner\\alivegeto.TaskPlanner\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAiwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:11:02.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Priority.cs",
               "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
               "RelativeDocumentMoniker": "JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
               "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
               "RelativeToolTip": "JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T08:55:03.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "Complexity.cs",
               "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
               "RelativeDocumentMoniker": "JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
@@ -59,43 +331,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimpleTaskPlanner.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
-              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
-              "RelativeToolTip": "JonDou9000.TaskPlanner.Domain.Logic\\JonDou9000.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T21:18:10.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WorkItem.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs",
-              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs",
-              "RelativeToolTip": "JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models\\WorkItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T21:17:53.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs",
-              "ToolTip": "D:\\\u0423\u043D\u0456\u043A\\Dotnet_lab1\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs",
-              "RelativeToolTip": "JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T21:15:00.236Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },

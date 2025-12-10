@@ -44,8 +44,12 @@ D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp
 D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.ConsoleApp.runtimeconfig.json
 D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.ConsoleApp.dll
 D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.ConsoleApp.pdb
+D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.dll
+D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.dll
 D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.Domain.Logic.dll
 D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.Domain.Models.dll
+D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.Abstractions.pdb
+D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.DataAccess.pdb
 D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.Domain.Logic.pdb
 D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\bin\Debug\net8.0\JonDou9000.TaskPlanner.Domain.Models.pdb
 D:\Унік\Dotnet_lab1\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.ConsoleApp\obj\Debug\net8.0\JonDou9000.TaskPlanner.ConsoleApp.csproj.AssemblyReference.cache

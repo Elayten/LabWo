@@ -1,13 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.Domain.Logic", "..\JonDou9000.TaskPlanner.Domain.Logic\JonDou9000.TaskPlanner.Domain.Logic\JonDou9000.TaskPlanner.Domain.Logic.csproj", "{FF397663-7495-4E35-C59E-9E7D0676CE8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.ConsoleApp", "JonDou9000.TaskPlanner.ConsoleApp\JonDou9000.TaskPlanner.ConsoleApp.csproj", "{640F60D0-F8B0-5523-9CE1-8964E385859D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.Domain.Models", "..\JonDou9000.TaskPlanner.Domain.Models\JonDou9000.TaskPlanner.Domain.Models\JonDou9000.TaskPlanner.Domain.Models.csproj", "{599CBBBA-D651-9F2A-72FC-4D26DAF9417B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.Domain.Models", "JonDou9000.TaskPlanner.Domain.Models\JonDou9000.TaskPlanner.Domain.Models\JonDou9000.TaskPlanner.Domain.Models.csproj", "{FE267AEF-F2CF-E29A-3529-5F14647B5DE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.ConsoleApp", "JonDou9000.TaskPlanner.ConsoleApp\JonDou9000.TaskPlanner.ConsoleApp.csproj", "{E65B173B-A9E2-4B63-8ECE-9AA559B82AF9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.DataAccess.Abstractions", "JonDou9000.TaskPlanner.DataAccess.Abstractions\JonDou9000.TaskPlanner.DataAccess.Abstractions.csproj", "{4E504427-7357-316C-F954-B35B8B9230FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.DataAccess", "JonDou9000.TaskPlanner.DataAccess\JonDou9000.TaskPlanner.DataAccess.csproj", "{3C174AD2-DC5E-CF99-D130-1ED63B94DA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.Domain.Logic", "JonDou9000.TaskPlanner.Domain.Logic\JonDou9000.TaskPlanner.Domain.Logic.csproj", "{1CB78827-372D-4DA0-B491-5961BEA88D63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +19,31 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF397663-7495-4E35-C59E-9E7D0676CE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF397663-7495-4E35-C59E-9E7D0676CE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF397663-7495-4E35-C59E-9E7D0676CE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF397663-7495-4E35-C59E-9E7D0676CE8C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{599CBBBA-D651-9F2A-72FC-4D26DAF9417B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{599CBBBA-D651-9F2A-72FC-4D26DAF9417B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{599CBBBA-D651-9F2A-72FC-4D26DAF9417B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{599CBBBA-D651-9F2A-72FC-4D26DAF9417B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E65B173B-A9E2-4B63-8ECE-9AA559B82AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E65B173B-A9E2-4B63-8ECE-9AA559B82AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E65B173B-A9E2-4B63-8ECE-9AA559B82AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E65B173B-A9E2-4B63-8ECE-9AA559B82AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640F60D0-F8B0-5523-9CE1-8964E385859D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640F60D0-F8B0-5523-9CE1-8964E385859D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640F60D0-F8B0-5523-9CE1-8964E385859D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640F60D0-F8B0-5523-9CE1-8964E385859D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE267AEF-F2CF-E29A-3529-5F14647B5DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE267AEF-F2CF-E29A-3529-5F14647B5DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE267AEF-F2CF-E29A-3529-5F14647B5DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE267AEF-F2CF-E29A-3529-5F14647B5DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E504427-7357-316C-F954-B35B8B9230FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E504427-7357-316C-F954-B35B8B9230FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E504427-7357-316C-F954-B35B8B9230FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E504427-7357-316C-F954-B35B8B9230FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C174AD2-DC5E-CF99-D130-1ED63B94DA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C174AD2-DC5E-CF99-D130-1ED63B94DA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C174AD2-DC5E-CF99-D130-1ED63B94DA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C174AD2-DC5E-CF99-D130-1ED63B94DA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB78827-372D-4DA0-B491-5961BEA88D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB78827-372D-4DA0-B491-5961BEA88D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB78827-372D-4DA0-B491-5961BEA88D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB78827-372D-4DA0-B491-5961BEA88D63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {805BCF9F-493A-4909-A5C9-758C4E72F3CA}
+		SolutionGuid = {C1825E04-D956-4833-98B6-E55B7F620B52}
 	EndGlobalSection
 EndGlobal

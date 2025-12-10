@@ -7,8 +7,9 @@
     "\\JonDou9000.TaskPlanner.Domain.Models",
     "\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models",
     "\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp",
-    "\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Properties"
+    "\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess",
+    "\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.DataAccess.Abstractions"
   ],
-  "SelectedNode": "\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.sln",
+  "SelectedNode": "\\JonDou9000.TaskPlanner\\JonDou9000.TaskPlanner.ConsoleApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
